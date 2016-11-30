@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 
 # Basic Config
-WORLD_NAME = 'love god'
-USERNAME = 'MajicBot'
+WORLD_NAME = ''
+USERNAME = 'A MajicBot'
 # Device ID, etc
-IC_ID = 'f58686de5772f8f018342827987d2efd'
-D_ID = '9c14d288d93569c42997d47262481cfd'
-PLAYER_ID = '58884f9fd7bd0366e1ada7e6b5dd28fd'
+IC_ID = 'f58686de5772f8f018342827987d2efa'
+D_ID = '9c14d288d93569c42997d47262481cfa'
+PLAYER_ID = '58884f9fd7bd0366e1ada7e6b5dd28fa'
 
 from datetime import datetime
 import blockheads
